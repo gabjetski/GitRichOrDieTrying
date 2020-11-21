@@ -8,7 +8,7 @@ What's takin' homie so long, son?
 Ahh, ohh! What the fuck?!
 Ah, son, pull off, pull off
 
-[Intro: 50 Cent]
+<h2>[Intro: 50 Cent]</h2>
 Many men wish death upon me
 Blood in my eye, dawg, and I can't see
 I'm tryin' to be what I'm destined to be
@@ -18,7 +18,7 @@ My back on the wall, now you gon' see
 Better watch how you talk when you talk about me
 ‘Cause I'll come and take your life away
 
-[Chorus: 50 Cent]
+<h2>[Chorus: 50 Cent]</h2>
 Many men
 Many, many, many, many men
 Wish death 'pon me
@@ -26,7 +26,7 @@ Lord, I don't cry no more
 Don't look to the sky no more
 Have mercy on me
 
-[Verse 1: 50 Cent]
+<h2>[Verse 1: 50 Cent]</h2>
 Now man, these pussy niggas puttin' money on my head
 Go on and get your refund, motherfucker, I ain't dead
 I'm the diamond in the dirt that ain't been found
@@ -41,7 +41,7 @@ Turn your back on me, get clapped and lose your legs
 I walk around, gun on my waist, chip on my shoulder
 Till I bust a clip in your face, pussy, this beef ain't over
 
-[Chorus: 50 Cent]
+<h2>[Chorus: 50 Cent]</h2>
 Many men
 Many, many, many, many men
 Wish death 'pon me
@@ -54,7 +54,7 @@ Have mercy on many men
 Many, many, many, many men
 Wish death 'pon me
 
-[Verse 2: 50 Cent]
+</h2>[Verse 2: 50 Cent]</h2>
 Sunny days wouldn't be special if it wasn't for rain
 Joy wouldn't feel so good if it wasn't for pain
 Death gotta be easy, ‘cause life is hard
@@ -68,7 +68,7 @@ Like Malcolm by any means with my gun in my palm
 Slim switched sides on me, let niggas ride on me
 I thought we was cool, why you want me to die, homie?
 
-[Chorus: 50 Cent]
+<h2>[Chorus: 50 Cent]</h2>
 Many men
 Many, many, many, many men
 Wish death 'pon me
@@ -81,7 +81,7 @@ Have mercy on many men
 Many, many, many, many men
 Wish death 'pon me
 
-[Verse 3: 50 Cent]
+<h2>[Verse 3: 50 Cent]</h2>
 Every night I talk to God, but he don't say nothin' back
 I know he protectin' me, but I still stay with my gat
 In my nightmares, niggas keep pullin' TECs on me
@@ -95,7 +95,7 @@ In the Bible, it says what goes around, comes around
 Now it's clear that I'm here for a real reason
 ‘Cause he got hit like I got hit, but he ain't fuckin' breathin'
 
-[Chorus: 50 Cent]
+<h2>[Chorus: 50 Cent]</h2>
 Many men
 Many, many, many, many men
 Wish death 'pon me
