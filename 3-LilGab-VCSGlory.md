@@ -1,5 +1,5 @@
-#VCS Glory - Lil Gab
-##Verse 1
+# VCS Glory - Lil Gab
+## Verse 1
 Git is so cool yea yea 
 i see my versions yea yea 
 and i can change yea yea 
