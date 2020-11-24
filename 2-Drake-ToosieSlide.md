@@ -1,17 +1,17 @@
-#[Pre-Chorus]
+# [Pre-Chorus]
 Black leather glove, no sequins
 Buckles on the jacket, it's Alyx shit
 Nike crossbody, got a piece in it
 Got a dance, but it's really on some street shit
 I'ma show you how to get it
 
-#[Chorus]
+# [Chorus]
 It go right foot up, left foot, slide
 Left foot up, right foot, slide
 Basically, I'm sayin' either way, we 'bout to slide, ayy
 Can't let this one slide, ayy
 
-#[Post-Chorus]
+# [Post-Chorus]
 Don't you wanna dance with me? No?
 I could dance like Michael Jackson
 I could give you thug passion
