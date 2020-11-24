@@ -1,4 +1,4 @@
-#[Skit: 50 Cent & Lloyd Banks]
+# [Skit: 50 Cent & Lloyd Banks]
 Man, we gotta go get somethin' to eat
 Man, I'm hungry as a motherfucker
 Ayo man, damn
