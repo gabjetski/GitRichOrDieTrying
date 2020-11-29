@@ -1,5 +1,6 @@
 # Lil Uzi - Dark Queen
-##[Intro]
+## [Intro]
+
 Dear mama (Dear mom)
 
 Love you mama (That's on gang)
@@ -10,7 +11,8 @@ Slatt, slatt, slatt
 
 (That-that-that-that-that-that be Maaly Raw)
 
-##[Chorus]
+## [Chorus]
+
 Dear mama
 
 I don’t wanna sign off (No way)
@@ -29,7 +31,8 @@ All my diamonds rocked up (Oh yeah, okay)
 
 I don't wanna sign off (Woah)
 
-##[Verse 1]
+## [Verse 1]
+
 Mama love me so I can do no wrong (Wrong, do no wrong)
 
 Mama in the trap so this her favorite song (Song, favorite song)
@@ -54,7 +57,8 @@ Don't care about this money, don't care about them cars (She don't, she don't)
 
 Lose my mama, that's a problem you can't solve (Gang)
 
-##[Chorus]
+## [Chorus]
+
 Dear mama
 
 I don't wanna sign off (No way)
@@ -73,7 +77,8 @@ All my diamonds rocked up (Oh yeah, okay)
 
 I don't wanna sign off (Woah)
 
-##[Verse 2]
+## [Verse 2]
+
 Now I got the game in a headlock (Headlock, okay)
 
 Never catch me lackin', run a red light (No lackin' shorty, skrrt)
@@ -98,7 +103,8 @@ Mama saw me in action, it could've got worse (1600)
 
 I know that my mama, know I'm shootin' first
 
-##[Chorus]
+## [Chorus]
+
 Dear mama (Boo, bah)
 
 I don't wanna sign off (No way)
@@ -117,7 +123,8 @@ All my diamonds rocked up (Oh yeah, okay)
 
 I don't wanna sign off (Woah)
 
-##[Outro]
+## [Outro]
+
 Dear mama (Slatt, 1600 Block)
 
 Love you mama (That's on gang, slatt)
