@@ -1,12 +1,19 @@
 # 50 Cent & Lloyd Banks - Many Men 
 ## [Skit: 50 Cent & Lloyd Banks]
 Man, we gotta go get somethin' to eat
+
 Man, I'm hungry as a motherfucker
+
 Ayo man, damn
+
 What's takin' homie so long, son?
+
 50, calm down, he coming
+
 (*nine gunshots*)
+
 Ahh, ohh! What the fuck?!
+
 Ah, son, pull off, pull off
 
 ## [Intro: 50 Cent]
