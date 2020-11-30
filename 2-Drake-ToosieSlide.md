@@ -1,17 +1,17 @@
-[Pre-Chorus]
+# [Pre-Chorus]
 Black leather glove, no sequins
 Buckles on the jacket, it's Alyx shit
 Nike crossbody, got a piece in it
 Got a dance, but it's really on some street shit
 I'ma show you how to get it
 
-[Chorus]
+# [Chorus]
 It go right foot up, left foot, slide
 Left foot up, right foot, slide
 Basically, I'm sayin' either way, we 'bout to slide, ayy
 Can't let this one slide, ayy
 
-[Post-Chorus]
+# [Post-Chorus]
 Don't you wanna dance with me? No?
 I could dance like Michael Jackson
 I could give you thug passion
@@ -22,13 +22,13 @@ I could give you satisfaction
 And you know we out here every day with it
 I'ma show you how to get it
 
-[Chorus]
+# [Chorus]
 It go right foot up, left foot, slide
 Left foot up, right foot, slide
 Basically, I'm sayin', either way, we 'bout to slide, ayy
 Can't let this one slide, ayy (Who's bad?)
 
-[Verse 1]
+# [Verse 1]
 Two thousand shorties wanna tie the knot, ayy, yeah
 Two hundred shooters on my brother's block, woah, yeah
 Petal off a rose like I love her not, maybe not
@@ -41,20 +41,20 @@ That's just how I think, it's either you or me
 This life got too deep for you, baby
 Two or three of us about to creep where they stayin'
 
-[Pre-Chorus]
+# [Pre-Chorus]
 Black leather glove, no sequins
 Buckles on the jacket, it's Alyx shit
 Nike crossbody, got a piece in it
 Got a dance, but it's really on some street shit
 I'ma show you how to get it
 
-[Chorus]
+# [Chorus]
 It go right foot up, left foot, slide
 Left foot up, right foot, slide
 Basically, I'm sayin' either way, we 'bout to slide, ayy
 Can't let this one slide, ayy (Who's bad?)
 
-[Verse 2]
+# [Verse 2]
 Toosie slide, then I hit it double-time
 Then I hit a spin 'cause we spun their block a couple times
 If it's not the right time, there'll always be another time
@@ -67,20 +67,20 @@ Solo niggas, only YOLO, for real
 Heard a lot about you but we don't know for real
 Next time, guarantee the truth'll get revealed
 
-[Pre-Chorus]
+# [Pre-Chorus]
 Black leather gloves, no sequins, yeah
 Buckles on the jacket, it's Alyx shit
 Nike crossbody, got a piece in it
 Got a dance, but it's really on some street shit
 I'ma show you how
 
-[Chorus]
+# [Chorus]
 It go right foot up, left foot, slide
 Left foot up, right foot, slide
 Basically, I'm sayin' either way we 'bout to slide, ayy
 Can't let this one slide, ayy
 
-[Post-Chorus]
+# [Post-Chorus]
 Don't you wanna dance with me? No?
 I could dance like Michael Jackson (Jackson)
 I could give you thug passion (Passion)
@@ -91,7 +91,7 @@ I could give you satisfaction ('Faction)
 And you know we out here every day with it
 I'ma show you how to get it
 
-[Chorus]
+# [Chorus]
 It go right foot up, left foot, slide
 Left foot up, right foot, slide
 Basically, I'm sayin' either way we 'bout to slide
